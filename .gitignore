@@ -18,3 +18,8 @@ imgui.ini
 **/xcshareddata
 *.ini
 *.lastcodeanalysissucceeded
+Box2D/Build/Box2D
+Box2D/Build/CMakeCache.txt
+Box2D/Build/CMakeFiles
+Box2D/Build/Makefile
+Box2D/Build/cmake_install.cmake
